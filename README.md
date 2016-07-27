@@ -10,3 +10,5 @@ IF 微博有更新<br>
 get请求-第一条微博评论页面<br>
 post请求-评论<br>
 ELSE 下一轮<br>
+<h3>2)simple python chat room</h3>
+服务端以及用户端的代码以及流程图
